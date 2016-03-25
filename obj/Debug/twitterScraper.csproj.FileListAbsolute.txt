@@ -1,0 +1,204 @@
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\twitterScraper.exe.config
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\twitterScraper.exe
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\twitterScraper.pdb
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Autofac.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\PCLWebUtility.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Tweetinvi.Core.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Tweetinvi.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Tweetinvi.Security.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Autofac.xml
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\obj\Debug\twitterScraper.exe
+C:\Users\ialsmadi\Downloads\twitter\twitterScraper\obj\Debug\twitterScraper.pdb
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\twitterScraper.exe.config
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\twitterScraper.exe
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\twitterScraper.pdb
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Autofac.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\EntityFramework.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\LinqToTwitter.net.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\PCLWebUtility.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\System.Reactive.Core.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\System.Reactive.Linq.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Tweetinvi.Core.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Tweetinvi.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Tweetinvi.Security.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Autofac.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\EntityFramework.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\System.Reactive.Core.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\System.Reactive.Linq.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\obj\Debug\twitterScraper.exe
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\obj\Debug\twitterScraper.pdb
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\obj\Debug\twitterScraper.csproj.App.config
+C:\Users\ialsmadi\Desktop\Twitter_Project\twitter\twitterScraper\obj\Debug\twitterScraper.csprojResolveAssemblyReference.cache
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\twitterScraper.exe.config
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\twitterScraper.exe
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\twitterScraper.pdb
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Autofac.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\EntityFramework.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\LinqToTwitter.net.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\PCLWebUtility.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.Core.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.Linq.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Core.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Security.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Autofac.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\EntityFramework.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.Core.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.Linq.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\obj\Debug\twitterScraper.csproj.App.config
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\obj\Debug\twitterScraper.csprojResolveAssemblyReference.cache
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\obj\Debug\twitterScraper.exe
+C:\Users\ialsmadi\Desktop\Twitter_Project - Copy\twitter\twitterScraper\obj\Debug\twitterScraper.pdb
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\obj\Debug\twitterScraper.csproj.App.config
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\obj\Debug\Interop.HttpWatch.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\obj\Debug\Interop.SHDocVw.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\obj\Debug\twitterScraper.csproj.ResolveComReference.cache
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\twitterScraper.exe.config
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\twitterScraper.exe
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\twitterScraper.pdb
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Autofac.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\EntityFramework.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\LinqToTwitter.net.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\PCLWebUtility.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\System.Reactive.Core.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\System.Reactive.Linq.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Tweetinvi.Core.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Tweetinvi.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Tweetinvi.Security.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\WatiN.Core.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\WebDriver.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Autofac.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\EntityFramework.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\System.Reactive.Core.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\System.Reactive.Linq.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\WatiN.Core.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\bin\Debug\WebDriver.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\obj\Debug\twitterScraper.exe
+C:\Users\ialsmadi\Desktop\Twitter_Main\twitter\twitterScraper\obj\Debug\twitterScraper.pdb
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\twitterScraper.exe.config
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\obj\Debug\twitterScraper.csproj.App.config
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\obj\Debug\Interop.HttpWatch.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\obj\Debug\Interop.SHDocVw.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\obj\Debug\twitterScraper.csproj.ResolveComReference.cache
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\obj\Debug\twitterScraper.exe
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\obj\Debug\twitterScraper.pdb
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\twitterScraper.exe
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\twitterScraper.pdb
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Autofac.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\EntityFramework.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\LinqToTwitter.net.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\PCLWebUtility.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.Core.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.Linq.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Core.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Security.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\WatiN.Core.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\WebDriver.dll
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Autofac.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\EntityFramework.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.Core.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.Linq.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\WatiN.Core.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\bin\Debug\WebDriver.xml
+C:\Users\ialsmadi\Desktop\Twitter_Main - Copy\twitter\twitterScraper\obj\Debug\twitterScraper.csprojResolveAssemblyReference.cache
